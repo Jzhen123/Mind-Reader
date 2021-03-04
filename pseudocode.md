@@ -1,4 +1,4 @@
-Create an an array of the different states/views                 //      let view = [0, 1, 2, 3, 4, 5, 6];
+Create an an array of the different states/views                 //      const view = [0, 1, 2, 3, 4, 5, 6];
 Create a function for the current view and what it displays      //      function currentView()
     In the function have view start at 0 and change based on 
     event listeners                                              //      let mainText = [];

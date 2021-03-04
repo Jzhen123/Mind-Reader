@@ -3,3 +3,8 @@
     font-weight: 500;
     color: gray;
 }
+
+.refreshThickness {
+    stroke: aqua;
+    stroke-width: 4%;
+  }
