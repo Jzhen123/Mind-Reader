@@ -7,4 +7,10 @@
 .refreshThickness {
     stroke: aqua;
     stroke-width: 4%;
-  }
+}
+
+.refreshPosition {
+    position: fixed;
+    right: 750px;
+    top: 610px;
+}
