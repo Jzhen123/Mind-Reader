@@ -4,13 +4,27 @@
     color: gray;
 }
 
+.secondaryText {
+    font-size: large;
+    font-weight: 500;
+    color: lightblue;
+}
+.buttonColor {
+    background-color: lightblue;
+}
+
+.buttonTextColor {
+    color: lightblue;
+}
+
 .refreshThickness {
-    stroke: aqua;
+    stroke: lightblue;
     stroke-width: 4%;
 }
 
-.refreshPosition {
-    position: fixed;
-    right: 750px;
-    top: 610px;
+.refreshRow {
+    position: absolute;
+    top: 555px;
+    left: 235px;
 }
+
